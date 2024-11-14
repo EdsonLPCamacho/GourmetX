@@ -27,6 +27,11 @@ public class User {
     private LocalDateTime lastLogin;
     private boolean status;
     
+    public User() {
+        // Constructor
+    }
+
+    
     //Getters and setters
 	public Long getId() {
 		return id;

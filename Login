@@ -1,0 +1,12 @@
+login:
+
+Backend (Spring Boot)
+
+5. JwtService
+
+Frontend (Angular)
+
+1. AuthService
+2. LoginComponent
+3. login.component.html (template do LoginComponent)
+4. login.component.css (estilos do LoginComponent)
